@@ -1,6 +1,6 @@
 {
   "name": "codersx-env",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Codersx environment",
   "main": "index.js",
   "repository": "https://github.com/pcsaovang/codersx-env.git",

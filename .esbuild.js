@@ -8,7 +8,7 @@ const nodeModules = fs.readdirSync('node_modules').filter(filter);
 
 // const options = ;
 const defaultOptions = {
-  entryPoints: ['index.ts'],
+  entryPoints: ['index.js'],
   color: true,
   minify: false,
   bundle: true,
